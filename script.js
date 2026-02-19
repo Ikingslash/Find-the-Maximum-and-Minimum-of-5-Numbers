@@ -1,4 +1,4 @@
-// This is a Javascript file that contains functions to calculate the average, maximum, and minimum of five numbers.
+// This is a Javascript file that contains functions to calculate the maximum, and minimum of five numbers.
 function maximum(a, b, c, d, e) {
   let result = Math.max(a, b, c, d, e);
   return result;
